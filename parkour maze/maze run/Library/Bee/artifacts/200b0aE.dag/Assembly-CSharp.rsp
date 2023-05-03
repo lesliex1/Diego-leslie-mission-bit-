@@ -354,6 +354,7 @@
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vExtensions.cs"
 "Assets/Invector-3rdPersonController_LITE/Scripts/Generic/Utils/vPickupItem.cs"
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
+"Assets/Player.cs"
 -langversion:9.0
 
 /deterministic
