@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{51A294E9-4590-EB2E-05EA-A0BD11F12954}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Player.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/CollectingCoins.cs">
     <Files>
-      <File FileName="Assets/Player.cs" Line="23" Column="68" />
+      <File FileName="Assets/Player.cs" Line="14" Column="18" />
+      <File FileName="Assets/CollectingCoins.cs" Line="19" Column="45" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,7 +18,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9f28d8db-791d-48ec-a797-62f44c22dfbb" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39a0cf85-ae3a-4391-b0e0-789c1955f34c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
